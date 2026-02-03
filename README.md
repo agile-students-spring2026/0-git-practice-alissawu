@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Interesting Read: Software Development & Complexity
+
+## [The Difficulty of Complexity](https://ethanniser.dev/blog/the-difficulty-of-complexity) by Ethan Niser
+
+This is actually someone I know, but I really like this article because of how applicable it is to everything in being a SWE. The core idea is that there's a difference between something being *complex* and something being *difficult* — complexity is inherent and doesn't go away, but difficulty is temporary and fades once you actually learn the thing. As someone still building up my SWE skills, that distinction hits hard. It's easy to look at a new framework or concept and feel like it's impossibly hard, when really you just haven't put in the time yet. It's a good reminder that the learning curve is worth it, and that feeling uncomfortable with something new doesn't mean it's actually beyond you, it just means you're not fluent yet.
