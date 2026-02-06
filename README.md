@@ -7,3 +7,7 @@ This is actually someone I know, but I really like this article because of how a
 ## Comment by Felix
 
 Yes, I think that once you get past the difficulty curve, you can not only start appreciating the inner workings of something more, but you can also start creating your own complexity in a way. Kind of like cooking where learning difficult techniques allows you to create elaborate dishes, and the only limiter is your creativity.
+
+## Comment by Park
+
+I agree on the part that some of the fastly-changing software might be skeptical, but I think that it is a really healthy change and an efficient one too. The author calls these changes that makes things easier as "difficulty". I believe that reducing the difficulty is really important (hence the use of vibe coding) becuase we, as human, should focus on critical thinking on the complexity part of problems.
